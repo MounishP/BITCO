@@ -1,0 +1,17 @@
+March 10
+
+1. Take 3 numbers find the largest number
+2. Take 4 numbers find the smallest number
+3. take 4 numbers check if the first number and thrid number are equal
+    if they are equal add them
+    else add the second and fourth numbers
+
+march 12
+
+1. Print even number from 1 to 100
+2. Print prime numbers from 1 to 1000
+3. Write a program to check whether the given number(input) is
+    (separate methods(with parameter) for each)
+    1. prime
+    2. even
+    3. integer or decimal

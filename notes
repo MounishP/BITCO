@@ -1,0 +1,13 @@
+Access modifiers
+    1. Public - visible to all
+    2. Private - Within the package or project and in the class
+    3. Protected - only inherited classes can access
+
+Return types:
+    void - null/nothing
+    String
+    int
+
+Why use methods?
+1. reusablity
+2. testing
