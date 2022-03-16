@@ -15,3 +15,10 @@ march 12
     1. prime
     2. even
     3. integer or decimal
+
+
+march 16
+1. Create a class with features - name, age, place, education.
+    Create getters and setters, toString
+    Create  a new main class - Create 4 objects for the class and set new values for each object
+    Print all the 4 objects
